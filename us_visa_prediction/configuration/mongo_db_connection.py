@@ -34,3 +34,9 @@ class MongoDBClient:
             logging.info("MongoDB connection succesfull")
         except Exception as e:
             raise USvisaException(e,sys)
+
+# if __name__=="__main__":
+#     obj=MongoDBClient(DATABASE_NAME)
+#     print(obj.client)
+#     print(obj.database)
+#     print(obj.database_name)

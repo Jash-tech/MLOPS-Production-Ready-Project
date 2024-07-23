@@ -23,3 +23,4 @@ Data Drift with Evidently AI:
 CLT Theorem: (Random selected) Distribution of sample should be similar to the distribution of polpulation (n>30)
 If it is not then it is problem of data drift.
 Distribution of Train sample= Distribution of Test sample
+1. Data Validation with Evidently AI
